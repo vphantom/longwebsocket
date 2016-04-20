@@ -1,6 +1,6 @@
 {
   "name": "longwebsocket",
-  "main": "longwebsocket.min.js",
+  "main": "longwebsocket.browser.js",
   "homepage": "https://github.com/vphantom/longwebsocket",
   "authors": [
     "Stéphane Lavergne <lis@imars.com>"
@@ -9,10 +9,10 @@
   "license": "GPL-3.0",
   "ignore": [
     "**/.*",
-    "coverage",
+    "Makefile",
+    "bower.json",
+    "package.json",
     "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "bower_components"
   ]
 }
