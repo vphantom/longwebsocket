@@ -1,0 +1,32 @@
+{
+  "name": "longwebsocket",
+  "version": "1.0.0-beta",
+  "description": "Reconnecting wrapper around native WebSocket",
+  "main": "longwebsocket.js",
+  "scripts": {
+    "test": "echo Please use make test instead && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vphantom/longwebsocket.git"
+  },
+  "author": "Stéphane Lavergne <lis@imars.com> (https://github.com/vphantom)",
+  "license": "GPL-3.0",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "longwebsocket.js",
+    "longwebsocket.browser.js",
+    "longwebsocket.min.js",
+    "longwebsocket.min.js.map"
+  ],
+  "bugs": {
+    "url": "https://github.com/vphantom/longwebsocket/issues"
+  },
+  "homepage": "https://github.com/vphantom/longwebsocket#readme",
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "eslint": "^2.8.0",
+    "uglify-js": "^2.6.2"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "longwebsocket",
+  "main": "longwebsocket.min.js",
+  "homepage": "https://github.com/vphantom/longwebsocket",
+  "authors": [
+    "Stéphane Lavergne <lis@imars.com>"
+  ],
+  "description": "Reconnecting wrapper around native WebSocket",
+  "license": "GPL-3.0",
+  "ignore": [
+    "**/.*",
+    "coverage",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
