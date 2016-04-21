@@ -6,7 +6,7 @@
     "Stéphane Lavergne <lis@imars.com>"
   ],
   "description": "Reconnecting wrapper around native WebSocket",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "ignore": [
     "**/.*",
     "Makefile",

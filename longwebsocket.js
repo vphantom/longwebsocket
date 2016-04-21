@@ -1,7 +1,7 @@
-/*! longwebsocket v1.0.0-beta
+/*! longwebsocket v1.0.1-beta
  * <https://github.com/vphantom/longwebsocket>
  * Copyright 2016 Stéphane Lavergne
- * Free software under <http://www.gnu.org/licenses/lgpl-3.0.txt> */
+ * Free software under MIT License: <https://opensource.org/licenses/MIT> */
 
 'use strict';
 
